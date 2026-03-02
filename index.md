@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Mariana Ma
 ---
 
 ## About Me
