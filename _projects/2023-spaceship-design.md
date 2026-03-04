@@ -1,4 +1,10 @@
-
+---
+layout: project
+title: Nut cracker
+description: Class project with Graphs
+technologies: [github]
+image: /assets/images/Statics HW4.jpeg
+---
 
 
 Find
