@@ -3,6 +3,7 @@ Find
 The goal is to design a simple lever-type nutcracker that can crack open a macadamia nut by hand. We need to find out the necesssary dimensions of the nutcracker and come up with a design to make this task feasible.
 
 
+
 Given
 
 Average load required to crack a macadamia is 222kg(https://doi.org/10.1007/s10071-007-0131-2)
