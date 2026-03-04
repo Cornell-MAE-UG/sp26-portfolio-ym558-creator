@@ -1,13 +1,48 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+title: Nutcracker
+description: Class project with Graphs
+technologies: /
+image: /assets/images/Statics HW4.jpeg
 ---
 
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+# Nutcracker Design Analysis
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+## Find
 
+The goal is to design a simple lever-type nutcracker that can crack open a macadamia nut by hand. We need to determine the necessary dimensions of the nutcracker and develop a design that makes this task feasible.
+
+---
+
+## Given
+
+- Average load required to crack a macadamia: **222 kg**  
+  Source: https://doi.org/10.1007/s10071-007-0131-2
+
+---
+
+## Assumptions
+
+- Average diameter of a macadamia nut: **20 mm**
+- Maximum grip strength applied to handle: **40 kg**
+
+---
+
+## Calculations
+
+Taking moments about point P:
+
+      ∑Mₚ = 0  
+
+      15j × (−222i) + yj × (40i) = 0    
+
+      0 = -3330k̂ + 40yK̂
+      
+      y = 83.25
+
+
+
+## Discussion
+
+The total length of the nutcracker is approximately **8 cm**, which makes it discreet and portable. However, the short handle length limits the amount of force that can be comfortably applied.
