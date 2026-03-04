@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Mariana Ma
 description              : Mariana Ma - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "/sp26-portfolio-ym558-creator/"
 
 # Theme and Style
 theme: jekyll-theme-minimal
