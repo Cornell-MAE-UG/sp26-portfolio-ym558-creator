@@ -2,7 +2,7 @@
 layout: project
 title: Nutcracker
 description: Class project with Graphs
-image: /assets/images/design.jpeg
+image: /assets/images/Stattics HW4.jpeg
 
 ---
 
@@ -50,6 +50,8 @@ The total length of the nutcracker is approximately **8 cm**, which makes it dis
 ---
 
 ## Beam Analysis
+
+![Beam diagram](/assets/images/design.jpeg) 
 
 ### Assumptions
 
