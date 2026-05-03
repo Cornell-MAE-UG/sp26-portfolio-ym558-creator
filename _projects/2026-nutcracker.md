@@ -2,7 +2,7 @@
 layout: project
 title: Nutcracker
 description: Class project with Graphs
-image: /assets/images/Stattics HW4.jpeg
+image: /assets/images/Statics HW4.jpeg
 
 ---
 
