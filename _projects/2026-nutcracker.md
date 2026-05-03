@@ -2,8 +2,8 @@
 layout: project
 title: Nutcracker
 description: Class project with Graphs
-technologies: /
 image: /assets/images/Statics HW4.jpeg
+
 ---
 
 
@@ -119,6 +119,10 @@ Rounding up to nearest mm:
 
 ---
 
+### Part (C) — Design
+image: /assets/images/design.jpeg
+
+---
 ### Discussion
 
 The maximum deflection occurs at **x = 7.64 cm** from the pin — near the midpoint — even though the load is applied only 1.44 cm from the pin. A **7 mm diameter solid steel rod** satisfies the deflection constraint at only **54.4 g**,
