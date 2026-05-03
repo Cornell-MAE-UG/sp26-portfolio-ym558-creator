@@ -2,7 +2,7 @@
 layout: project
 title: Nutcracker
 description: Class project with Graphs
-image: /assets/images/Statics HW4.jpeg
+image: /assets/images/design.jpeg
 
 ---
 
@@ -119,8 +119,6 @@ Rounding up to nearest mm:
 
 ---
 
-### Part (C) — Design
-image: /assets/images/design.jpeg
 
 ---
 ### Discussion
